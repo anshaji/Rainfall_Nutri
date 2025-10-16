@@ -15,3 +15,9 @@ Interpretation and Considerations:
 •	The second model, which addresses potential endogeneity, shows a stronger relationship than the simple linear regression model, as evidenced by a higher R-squared value.
 •	The condition number is large in the second model, indicating potential multicollinearity or other numerical issues.
 These results provide insights into the relationship between agricultural productivity and child nutrition. However, they also suggest that further analysis with additional variables and more sophisticated models might be necessary for a comprehensive understanding.
+
+
+
+
+
+Something new I want to try - how does it work
